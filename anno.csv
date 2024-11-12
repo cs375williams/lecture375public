@@ -1,0 +1,50 @@
+Timestamp,"Example 1: 
+
+Premise: 
+""A tennis match with multiple females playing."" 
+
+Hypothesis: 
+""Some women are playing a sport."" ","Example 2: 
+
+Premise: 
+""Japanese tourists visiting other countries are still shocked to find Japanese consumer goods available for far less than they have to pay at home."" 
+
+Hypothesis: 
+""Some Japanese people travel to outside Japanese borders to buy certain items for cheaper."" ","Example 3: 
+
+Premise: 
+""The average number of boxes per route differs by a factor of two."" 
+
+Hypothesis: 
+""The average amount of boxes is always the same."" ","Example 4: 
+
+Premise: 
+""Paula swatted the fly."" 
+
+Hypothesis: 
+""The swatting happened in a forceful manner."" "
+11/11/2024 9:14:56,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/11/2024 9:17:14,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:34,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:37,y=1: Entailment,y=1: Entailment,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:48,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:49,y=1: Entailment,y=-1: Contradiction,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:54,y=1: Entailment,y=1: Entailment,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:57,y=1: Entailment,y=1: Entailment,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:57,y=1: Entailment,y=-1: Contradiction,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:07:59,y=0: Neutral,y=-1: Contradiction,y=0: Neutral,y=0: Neutral
+11/12/2024 10:08:03,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:04,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:13,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:19,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:19,y=1: Entailment,y=-1: Contradiction,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:20,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:21,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:32,y=0: Neutral,y=1: Entailment,y=-1: Contradiction,y=1: Entailment
+11/12/2024 10:08:36,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:08:49,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:09:01,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:09:02,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:09:07,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:09:09,y=1: Entailment,y=0: Neutral,y=-1: Contradiction,y=0: Neutral
+11/12/2024 10:09:21,y=0: Neutral,y=-1: Contradiction,y=-1: Contradiction,y=1: Entailment
